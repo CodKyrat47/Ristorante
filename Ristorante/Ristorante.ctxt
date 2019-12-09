@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ristorante
+comment1.params=s
+comment1.target=void\ out(java.lang.String)
+comment1.text=UN\ RISTORANTE\ HA\ UNA\ DISPENSA\ CONTENENTI\ INGREDIENTI\ E\ RICETTE,\ E\ DEI\ MENU'\n\ \ \ \ \ \ FISSI\ CHE\ USANO\ INGREDIENTI\ DELLA\ DISPENSA.\ IMPLEMENTARE\ UN\ PROGRAMMA\n\ \ \ \ \ \ CHE\ POSSA\ FARE\ PRENOTAZIONI,\ DISDETTE,\ AD\ OGNI\ PERSONA\ VIENE\ ASSEGNATA\ UNA\n\ \ \ \ \ \ RICETTA\ \ E\ AVVIENE\ UNO\ SCALO\ DI\ INGREDIENTI\ (ml,l,g,kg)\ DALLA\ DISPENSA\ \n\ \ \ \ \ \ AVVISARE\ QUANDO\ L'INGREDIENTE\ E'\ SOTTOSCORTA(AGGIUNTA\ OPZIONALE\ SCONTRINO\ CON\ IL\ CONTO)\n\ \ \ \ \ \ CLASSI\:\n\ \ \ \ \ \ 1\:\ DISPENSA\ (CONTIENE\ INGREDIENTI)\n\ \ \ \ \ \ 2\:\ RICETTE(EXTENDS\ DI\ DISPENSA)\n\ \ \ \ \ \ 3\:\ SALA(CONTIENE\ TAVOLI)\n\ \ \ \ \ \ 4\:\ MENU'(CONTIENE\ RICETTE)\n5\:\ CONTO
+comment2.params=s
+comment2.target=void\ o(java.lang.String)
+comment3.params=args
+comment3.target=void\ Ristorante(java.lang.String[])
+numComments=4
