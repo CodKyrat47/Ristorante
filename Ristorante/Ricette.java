@@ -1,9 +1,7 @@
-
-
 public class Ricette
 {
 
-    public Ricette()
+    public Ricette ()
     {
         
     }

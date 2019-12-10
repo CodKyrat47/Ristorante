@@ -1,7 +1,6 @@
-
 public class Conto
 {
-    public Conto()
+    public Conto ()
     {
 
     }
